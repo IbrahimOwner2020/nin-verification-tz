@@ -1,0 +1,33 @@
+{
+	"name": "nin-verification-tz",
+	"version": "1.0.0",
+	"description": "Verify Tanzanian National Identification Numbers (NIN) effortlessly with the tanzanian-nin-verifier npm package",
+	"main": "lib/index.js",
+	"types": "lib",
+	"scripts": {
+		"build": "tsc -p ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/IbrahimOwner2020/nin-verification-tz.git"
+	},
+	"keywords": [
+		"nida",
+		"nin",
+		"nida-tz",
+		"tz",
+		"verify"
+	],
+	"author": "Ibrahim John",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/IbrahimOwner2020/nin-verification-tz/issues"
+	},
+	"homepage": "https://github.com/IbrahimOwner2020/nin-verification-tz#readme",
+	"devDependencies": {
+		"typescript": "^5.3.3"
+	},
+	"dependencies": {
+		"axios": "^1.6.5"
+	}
+}
