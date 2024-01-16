@@ -14,7 +14,7 @@
 ### Installation
 
 ```bash
-npm install tanzanian-nin-verifier
+npm install nin-verification-tz
 ```
 
 ### Importing
